@@ -3,8 +3,7 @@
 #include <stdio.h>
 
 /**
- * main
- *Prints the last digit of a randomly generated number
+ * main last digit of n>5: the string and is greater than 5
  * and whether it is greater than 5, less than 6, or 0.
  *
  * Return: Always 0.
