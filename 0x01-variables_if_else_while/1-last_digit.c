@@ -3,9 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - last digit of n is greater than 5: the string and is greater than 5
- *if the last digit of n is 0: the string and is 0
- *if the last digit of n is less than 6 and not 0: the string and is less than 6 and not 0
+ * main
  *Prints the last digit of a randomly generated number
  * and whether it is greater than 5, less than 6, or 0.
  *
