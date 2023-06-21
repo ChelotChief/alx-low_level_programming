@@ -1,9 +1,11 @@
 #include"main.h"
 /**
  * main - print _putchar
+ * written by Godfrey
  * return 0
  */
-int main(void){
+int main(void)
+{
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
